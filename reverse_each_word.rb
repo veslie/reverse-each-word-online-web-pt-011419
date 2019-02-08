@@ -1,1 +1,3 @@
-reverse_each_word("i love rice and chicken!")
+reverse_each_word("love", "rice", "chicken")
+
+end 
